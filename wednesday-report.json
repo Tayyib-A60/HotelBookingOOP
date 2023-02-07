@@ -1,0 +1,95 @@
+[
+  {
+    "PricePerDay": 80,
+    "RoomSize": 1,
+    "FloorNumber": 2,
+    "RoomNumber": 1,
+    "NumberOfWindows": 1,
+    "Balcony": {
+      "Size": 0,
+      "View": "0"
+    },
+    "bookings": [
+      {
+        "CheckIn": "2023-01-06T00:00:00",
+        "CheckOut": "2023-01-09T00:00:00"
+      },
+      {
+        "CheckIn": "2023-01-11T00:00:00",
+        "CheckOut": "2023-01-14T00:00:00"
+      }
+    ]
+  },
+  {
+    "PricePerDay": 99,
+    "RoomSize": 2,
+    "FloorNumber": 1,
+    "RoomNumber": 2,
+    "NumberOfWindows": 2,
+    "Balcony": {
+      "Size": 0,
+      "View": "0"
+    },
+    "bookings": []
+  },
+  {
+    "PricePerDay": 70,
+    "RoomSize": 1,
+    "FloorNumber": 3,
+    "RoomNumber": 3,
+    "NumberOfWindows": 1,
+    "Balcony": {
+      "Size": 0,
+      "View": "0"
+    },
+    "bookings": []
+  },
+  {
+    "PricePerDay": 180,
+    "RoomSize": 2,
+    "FloorNumber": 4,
+    "RoomNumber": 4,
+    "NumberOfWindows": 5,
+    "Balcony": {
+      "Size": 0,
+      "View": "0"
+    },
+    "bookings": []
+  },
+  {
+    "PricePerDay": 79,
+    "RoomSize": 2,
+    "FloorNumber": 1,
+    "RoomNumber": 5,
+    "NumberOfWindows": 2,
+    "Balcony": {
+      "Size": 0,
+      "View": "0"
+    },
+    "bookings": []
+  },
+  {
+    "PricePerDay": 170,
+    "RoomSize": 1,
+    "FloorNumber": 3,
+    "RoomNumber": 6,
+    "NumberOfWindows": 2,
+    "Balcony": {
+      "Size": 0,
+      "View": "0"
+    },
+    "bookings": []
+  },
+  {
+    "PricePerDay": 111,
+    "RoomSize": 2,
+    "FloorNumber": 4,
+    "RoomNumber": 12,
+    "NumberOfWindows": 2,
+    "Balcony": {
+      "Size": 40,
+      "View": "Sea"
+    },
+    "bookings": []
+  }
+]
